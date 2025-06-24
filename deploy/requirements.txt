@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-authlib
-python-dotenv
-psycopg2-binary
-azure-identity
-azure-keyvault-secrets
